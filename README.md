@@ -5,7 +5,7 @@
 
 ## Features
 
-1. **Accurate Result**: Provides precise verification of cPanel login credentials.
+1. **Accurate Result**: Provides precise result.
 2. **Support Large List**: Capable of handling and processing large lists of credentials efficiently.
 3. **Fast Checking**: Optimized for quick verification, ensuring rapid results.
 4. **Grab Domains After Login Success**: Automatically retrieves and how many domains associated.
